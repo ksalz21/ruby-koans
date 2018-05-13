@@ -1,0 +1,10 @@
+cat .gitignore
+
+#ignore swap files
+*.swp
+
+#ignore save files
+*.save
+
+#ignore path progress
+.path_progress
